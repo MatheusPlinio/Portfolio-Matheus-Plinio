@@ -5,7 +5,7 @@ import { Toaster } from "@/components/ui/toaster";
 import Head from "next/head";
 
 export const metadata: Metadata = {
-  title: "B2bit",
+  title: "Portfolio Matheus Plinio",
 };
 
 export default function RootLayout({
